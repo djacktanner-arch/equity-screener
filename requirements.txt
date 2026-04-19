@@ -1,0 +1,7 @@
+streamlit==1.25.0
+yfinance==0.2.26
+sec-edgar-downloader==4.0.0
+openai==0.27.8
+pdfkit==1.0.0
+pandas==2.1.0
+requests==2.31.0
